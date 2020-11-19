@@ -15,7 +15,7 @@ public class Newspaper {
         this.isFinnish = isFinnish;
     }
     public String getName(){
-     return this.name;
+     return name;
     }
     public void setDate(int year,int month, int dayOfMonth){
         this.year = year;
